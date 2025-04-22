@@ -87,13 +87,3 @@ projeto-monitoramento/
 - **Docker** / **Docker Compose**
 
 ---
-
-## ✨ Contribuição
-
-1. Faça um **fork** deste repositório.
-2. Crie uma **branch** com sua feature/bugfix: `git checkout -b feature/nome-da-feature`
-3. **Commit** suas alterações: `git commit -m "Descrição do commit"`
-4. Faça **push**: `git push origin feature/nome-da-feature`
-5. Abra um **pull request** para análise.
-
-
